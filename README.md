@@ -43,6 +43,6 @@ Music has become apart of our lives. Music is everywhere. Most cars have a radio
 
 
 # Further Development
-   https://www.thetabernaclechoir.org/articles/the-powerful-effect-of-music-on-the-brain.html
-   https://news.usc.edu/102681/childrens-brains-develop-faster-with-music-training/
-   https://owlcation.com/social-sciences/The-Effect-of-Music-on-Human-Health-and-Brain-Growth
+   * https://www.thetabernaclechoir.org/articles/the-powerful-effect-of-music-on-the-brain.html
+   * https://news.usc.edu/102681/childrens-brains-develop-faster-with-music-training/
+   * https://owlcation.com/social-sciences/The-Effect-of-Music-on-Human-Health-and-Brain-Growth
