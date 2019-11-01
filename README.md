@@ -1,7 +1,7 @@
 # Effects-of-Music on Various Aspects
 
 # About
-Music has become apart of our lives. Music is everywhere. Most cars have a radio installed having easy access to music or bluetooth. Since music is everywhere, there are various effects that it has on humans and other living things. 
+Music has become apart of our lives. Music is *everywhere*. Most cars have a radio installed having easy access to music or bluetooth. Since music is everywhere, there are various effects that it has on humans and other living things. 
 
 ![music](./planty.jpg)
 
@@ -18,13 +18,13 @@ Music has become apart of our lives. Music is everywhere. Most cars have a radio
 
 # Music's Affect on Humans
 ## Brain-  
-There have been studies that show an increase in brain growth. Music has shown an increase n memorization as well.
+There have been studies that show an increase in brain growth. Music has shown an increase in memorization as well. Music can trigger an emotion which then triggers a memory. A study was made in 2014, where 89 dementia patients were put to listen to music for 10 weeks or sing for 10 weeks and the effect was **positive**. They seemed to remember some songs. 
 
 ## Mood- 
-Different genres of music affect a person's mood. 
+Different genres of music affect a person's mood. Even sad music can become beneficiary because it becomes an outlet to **vent**. Upbeat music can lift a person's mood. The lyrics can be relateable which helps people feel like they are not alone.
 
 ## Heart- 
-Ever noticed the way fireworks and your heart go at the same tempo? The heart can synchronize to various sounds.
+Some surgeons have done open heart surgery while playing Mozart or other classical music and have noticed the patient recover quickly and the soft music allows the doctor to relax.
 
 ## Health- 
 # Music for Humans
@@ -36,7 +36,7 @@ Ever noticed the way fireworks and your heart go at the same tempo? The heart ca
    
 # The Effect of Music on Plants
 ## Growth- 
-Music is a stimuli recieved by a plant
+Music is a stimuli recieved by a plant. Music releases vibrations that the plant cells can feel. Since the plants cells are moving, they stimulate the production of nutrients leading to an increase of height. Rock music is not ideal for plant growth even though rock music produces greater pressure on the plant cells. Classical music is better for plant growth because the pressure from the vibrations are stable.
 
 # Music for Plants
    1. [Plantasia](https://www.youtube.com/watch?v=hnYSayGjlnY)
@@ -47,6 +47,10 @@ Music is a stimuli recieved by a plant
 
 
 # Further Development
+* different aspects on impact of music on human and plants
+* list some songs
+## Articles/Sites
    * https://www.thetabernaclechoir.org/articles/the-powerful-effect-of-music-on-the-brain.html
    * https://news.usc.edu/102681/childrens-brains-develop-faster-with-music-training/
    * https://owlcation.com/social-sciences/The-Effect-of-Music-on-Human-Health-and-Brain-Growth
+   * https://www.gardeningknowhow.com/garden-how-to/info/how-music-affects-plant-growth.htm
