@@ -35,7 +35,7 @@ Ever noticed the way fireworks and your heart go at the same tempo? The heart ca
    1. [Meditation](https://www.youtube.com/watch?v=7MqF0d0PQMc)
    
 # The Effect of Music on Plants
-   **Growth**- Music is a stimuli recieved by a plant
+## Growth- Music is a stimuli recieved by a plant
 
 # Music for Plants
    1. [Plantasia](https://www.youtube.com/watch?v=hnYSayGjlnY)
