@@ -17,13 +17,16 @@ Music has become apart of our lives. Music is everywhere. Most cars have a radio
    * Growth 
 
 # Music's Affect on Humans
-## Brain-  There have been studies that show an increase in brain growth. Music has shown an increase n memorization as well.
+## Brain-  
+There have been studies that show an increase in brain growth. Music has shown an increase n memorization as well.
 
-   **Mood**- Different genres of music affect a person's mood. 
+### Mood- 
+Different genres of music affect a person's mood. 
 
-   **Heart**- Ever noticed the way fireworks and your heart go at the same tempo? The heart can synchronize to various sounds.
+#### Heart- 
+Ever noticed the way fireworks and your heart go at the same tempo? The heart can synchronize to various sounds.
 
-   **Health**- 
+##### Health- 
 # Music for Humans
    1. [Relaxation](https://www.youtube.com/watch?time_continue=7&v=o5crUrbVnfs)
 
