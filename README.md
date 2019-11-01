@@ -27,6 +27,8 @@ Different genres of music affect a person's mood. Even sad music can become bene
 Some surgeons have done open heart surgery while playing Mozart or other classical music and have noticed the patient recover quickly and the soft music allows the doctor to relax.
 
 ## Health- 
+Music has helped people with health issues. Tourettes is widely known to be helped by singing. Stress and anxiety are common and music helps relax and calm.   
+
 # Music for Humans
    1. [Relaxation](https://www.youtube.com/watch?time_continue=7&v=o5crUrbVnfs)
 
